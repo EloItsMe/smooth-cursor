@@ -13,4 +13,20 @@ li, ul {
   list-style-type: none;
 }
 
+.background {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-color: #efd6ac;
+  cursor: none;
+}
+
+.cursor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #04151f;
+  border-radius: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */
